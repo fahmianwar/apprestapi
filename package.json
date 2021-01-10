@@ -1,0 +1,24 @@
+{
+  "name": "apprestapi",
+  "version": "1.0.0",
+  "description": "NodeJS REST API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fahmianwar/apprestapi.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "nodejs"
+  ],
+  "author": "Fahmi Anwar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fahmianwar/apprestapi/issues"
+  },
+  "homepage": "https://github.com/fahmianwar/apprestapi#readme"
+}
